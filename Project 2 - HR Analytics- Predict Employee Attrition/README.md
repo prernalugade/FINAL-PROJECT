@@ -1,4 +1,4 @@
-# Final Project 2-HR Analytics Predict Employee Attrition
+# Final Project 2-HR Analytics-Predict Employee Attrition
 
 ## Objective
 The objective of this project is to analyze employee data to understand the primary causes of attrition and build a machine learning model that predicts whether an employee is likely to leave. The goal is to help HR departments take proactive steps to improve retention and make data-driven decisions.
