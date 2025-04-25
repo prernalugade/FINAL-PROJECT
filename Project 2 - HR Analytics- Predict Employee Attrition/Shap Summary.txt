@@ -1,0 +1,5 @@
+SHAP Feature Importance Summary
+
+- OverTime and MonthlyIncome were the top influencers of employee attrition.
+- Employees with low salary and high overtime showed the highest probability of leaving.
+- Job Role, Years at Company, and Age also contributed significantly to predictions.

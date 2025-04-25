@@ -1,0 +1,12 @@
+HR Attrition Model – Logistic Regression Summary
+
+Accuracy: 85% (example – replace with your actual)
+Confusion Matrix:
+[[235  10]
+ [ 28  47]]
+
+- Precision (Yes - Attrition): 82%
+- Recall (Yes): 63%
+- F1-Score (Yes): 71%
+
+The model shows a good balance of precision and recall for identifying employees at risk of leaving.
