@@ -1,4 +1,4 @@
-# Final-Project-1---Retail-Business-Performance & Profitability-Analysis
+# Final Project 1-Retail Business Performance & Profitability Analysis
 
 ## Objective
 To analyze transactional retail data and uncover insights about profit-draining categories, regional performance, and monthly sales trends — enabling better decision-making for profitability and inventory optimization.
